@@ -1,4 +1,4 @@
-# blinkit-Analysis
+# blinkit-Analysis Python Project 
 BUSINESS REQUIREMENT
 KPI’s Requirements
 Total Sales: The overall revenue generated from all items sold.
